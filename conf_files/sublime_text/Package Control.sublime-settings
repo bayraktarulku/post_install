@@ -1,0 +1,24 @@
+
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ayu",
+		"GitGutter",
+		"Hipster",
+		"Jedi - Python autocompletion",
+		"Oceanic Next Color Scheme",
+		"Package Control",
+		"Predawn",
+		"Predawn Twilight Theme",
+		"Python PEP8 Autoformat",
+		"Random Everything",
+		"SublimeLinter",
+		"SublimeLinter-pycodestyle",
+		"SublimeLinter-pyflakes",
+		"Theme - Broceanic"
+	]
+}

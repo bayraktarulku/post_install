@@ -1,0 +1,23 @@
+{
+    "color_scheme": "Packages/Predawn/predawn.tmTheme",
+    "draw_white_space": "selection",
+    "ensure_newline_at_eof_on_save": true,
+    "font_face": "MonteCarlo Fixed",
+    "font_size": 12,
+    "gutter": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "rulers":
+    [
+        79,
+        120
+    ],
+    "shift_tab_unindent": true,
+    "show_encoding": true,
+    "tab_size": 4,
+    "theme": "predawn-DEV.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true
+}
